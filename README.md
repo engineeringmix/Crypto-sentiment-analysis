@@ -58,6 +58,7 @@ Crypto-sentiment-analysis/
 │
 ├── crypto-sentiment-trader-analysis.ipynb   ← Main analysis notebook
 ├── README.md                                ← This file
+├── Images                                   ← Visual output
 ```
 
 ---
