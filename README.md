@@ -139,4 +139,4 @@ Whales maintain consistent performance across all sentiment phases. High-Freq tr
 
 **Mohanraj** — Founder, EngineeringMix | 
 BCA Data Science | Mechanical Engineering Diploma
-Chennai, Tamil Nadu, India
+Tamil Nadu, India
