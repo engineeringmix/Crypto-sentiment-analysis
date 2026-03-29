@@ -138,5 +138,5 @@ Whales maintain consistent performance across all sentiment phases. High-Freq tr
 ## Author
 
 **Mohanraj** — Founder, EngineeringMix | 
-BCA Data Science | Mechanical Engineering Diploma
+BCA Data Science | Mechanical Engineering Diploma |
 Tamil Nadu, India
